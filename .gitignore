@@ -5,3 +5,5 @@ filtered_pose_result.json
 images.jpg
 images(1).jpg
 test_img.png
+test_img.png
+__pycache__
